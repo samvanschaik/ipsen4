@@ -1,1 +1,18 @@
-# ipsen4 .md
+1. Start MongoD.exe
+2. Start Mongo.exe
+
+3. Open IntelliJ
+4. New Project from existing sources on ipsen4\workshop-api-master\pom.xml
+5. Run ApiConfiguration.main()
+6. Allow the API some time to start up 
+
+7. Enable cross-origin-resource-sharing on your browser.
+
+8. Open your NodeJS commandprompt.
+9. Navigate to ipsen4\front
+10. npm install
+11. ng serve --port 8000 -o
+
+12. Prototype should now be running locally in your browser.
+
+
