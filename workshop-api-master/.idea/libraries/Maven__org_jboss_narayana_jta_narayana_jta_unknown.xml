@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jboss.narayana.jta:narayana-jta:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/narayana/jta/narayana-jta/unknown/narayana-jta-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/narayana/jta/narayana-jta/unknown/narayana-jta-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/narayana/jta/narayana-jta/unknown/narayana-jta-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

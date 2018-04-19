@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jboss:jboss-transaction-spi:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/jboss-transaction-spi/unknown/jboss-transaction-spi-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/jboss-transaction-spi/unknown/jboss-transaction-spi-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/jboss-transaction-spi/unknown/jboss-transaction-spi-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

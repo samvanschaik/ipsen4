@@ -1,0 +1,18 @@
+.counter {
+  text-align: center;
+}
+.followers {
+  margin-top: 10px;
+}
+
+.counter-count {
+  font-size: 25px;
+  background-color: orange;
+  color: #eaecf0;
+  text-align: center;
+  line-height: 92px;
+  width: 92px;
+  height: 92px;
+  display: inline-block;
+}
+
